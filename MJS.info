@@ -8,7 +8,7 @@
     },
     {
       "title": "Welcome!\\Hoş Geldin!",
-      "description": "What's New:\nAdded space skybox\nAdded simple minimap\nAdded taking photos with the phone\n\nImprovements:\nOptimizated LOD\nOptimizated culling\n\nFixes:\nFixed light issues\nFixed shader issues\nFixed some crash issues\\Yenilikler:\nUzay gökyüzü eklendi\nBasit mini harita eklendi\nTelefonla fotoğraf çekme eklendi\n\nİyileştirmeler:\nLOD Optimizasyonu\nCulling Optimizasyonu\n\nDüzeltmeler:\nIşık sorunları düzeltildi\nGölgelendirici sorunları düzeltildi\nBazı çökme sorunları düzeltildi",
+      "description": "What's New:<br>Added Russian and Portuguese languages<br>Added space skybox<br>Added simple minimap<br>Added taking photos with the phone<br><br>Improvements:<br>Optimizated LOD<br>Optimizated culling<br><br>Fixes:<br>Fixed light issues<br>Fixed shader issues<br>Fixed some crash issues\\Yenilikler:<br>Rusça ve portekizce dilleri eklendi<br>Uzay gökyüzü eklendi<br>Basit mini harita eklendi<br>Telefonla fotoğraf çekme eklendi<br><br>İyileştirmeler:<br>LOD Optimizasyonu<br>Culling Optimizasyonu<br><br>Düzeltmeler:<br>Işık sorunları düzeltildi<br>Gölgelendirici sorunları düzeltildi<br>Bazı çökme sorunları düzeltildi",
       "note": " ",
       "version": "0.0.5"
     }
