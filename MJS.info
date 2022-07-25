@@ -1,1 +1,16 @@
-{"Items":[{"title":"Welcome!//Hoş Geldin!","description":"Test announcement.//Test announcement.","note":"","version":"0.0.4"},{"title":"Welcome!//Hoş Geldin!","description":"What's New:<br>Added space skybox<br>Added simple minimap<br>Added taking photos with the phone<br><br>Improvements:<br>Optimizated LOD<br>Optimizated culling<br><br>Fixes:<br>Fixed light issues<br>Fixed shader issues<br>Fixed some crash issues//Yenilikler:<br>Uzay gökyüzü eklendi<br>Basit mini harita eklendi<br>Telefonla fotoğraf çekme eklendi<br><br>İyileştirmeler:<br>LOD Optimizasyonu<br>Culling Optimizasyonu<br><br>Düzeltmeler:<br>Işık sorunları düzeltildi<br>Gölgelendirici sorunları düzeltildi<br>Bazı çökme sorunları düzeltildi","note":"","version":"0.0.5"}]}
+{
+   "Items":[
+      {
+         "title":"Welcome!//Hoş Geldin!",
+         "description":"Test announcement.//Test announcement.",
+         "note":" ",
+         "version":"0.0.4"
+      },
+      {
+         "title":"Welcome!//Hoş Geldin!",
+         "description":"What's New:<br>Added space skybox<br>Added simple minimap<br>Added taking photos with the phone<br><br>Improvements:<br>Optimizated LOD<br>Optimizated culling<br><br>Fixes:<br>Fixed light issues<br>Fixed shader issues<br>Fixed some crash issues//Yenilikler:<br>Uzay gökyüzü eklendi<br>Basit mini harita eklendi<br>Telefonla fotoğraf çekme eklendi<br><br>İyileştirmeler:<br>LOD Optimizasyonu<br>Culling Optimizasyonu<br><br>Düzeltmeler:<br>Işık sorunları düzeltildi<br>Gölgelendirici sorunları düzeltildi<br>Bazı çökme sorunları düzeltildi",
+         "note":" ",
+         "version":"0.0.5"
+      }
+   ]
+}
