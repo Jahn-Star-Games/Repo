@@ -5,7 +5,7 @@
       "date": "28.10.23",
       "tier": "1",
       "note": "",
-      "version": "ALL"
+      "exclude": "0.0.1"
     }
   ]
 }
